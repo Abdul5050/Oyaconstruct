@@ -1,0 +1,73 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">rigid_override_default_layout</custom-field>
+		<custom-field action="copy">rigid_title_background</custom-field>
+		<custom-field action="copy">rigid_rev_slider_before_header</custom-field>
+		<custom-field action="copy">rigid_video_bckgr_loop</custom-field>
+		<custom-field action="copy">rigid_video_bckgr_mute</custom-field>
+		<custom-field action="copy">rigid_prtfl_custom_content</custom-field>
+		<custom-field action="copy">rigid_transparent_header</custom-field>
+		<custom-field action="copy">rigid_layout</custom-field>
+		<custom-field action="copy">rigid_top_header</custom-field>
+		<custom-field action="copy">rigid_bottom_header</custom-field>
+		<custom-field action="copy">rigid_footer_style</custom-field>
+		<custom-field action="copy">rigid_pre_footer</custom-field>
+		<custom-field action="copy">rigid_show_title_page</custom-field>
+		<custom-field action="copy">rigid_show_breadcrumb</custom-field>
+		<custom-field action="copy">rigid_show_sidebar</custom-field>
+		<custom-field action="copy">rigid_show_share</custom-field>
+		<custom-field action="copy">rigid_custom_sidebar</custom-field>
+		<custom-field action="translate">rigid_rev_slider</custom-field>
+		<custom-field action="copy">rigid_video_bckgr_url</custom-field>
+		<custom-field action="copy">rigid_video_bckgr_start</custom-field>
+		<custom-field action="copy">rigid_video_bckgr_end</custom-field>
+		<custom-field action="copy">rigid_super_slider_ids</custom-field>
+		<custom-field action="translate">rigid_collection</custom-field>
+		<custom-field action="translate">rigid_materials</custom-field>
+		<custom-field action="translate">rigid_client</custom-field>
+		<custom-field action="translate">rigid_model</custom-field>
+		<custom-field action="translate">rigid_status</custom-field>
+		<custom-field action="translate">rigid_ext_link_button_title</custom-field>
+		<custom-field action="translate">rigid_ext_link_url</custom-field>
+		<custom-field action="translate">rigid_feature_1</custom-field>
+		<custom-field action="translate">rigid_feature_2</custom-field>
+		<custom-field action="translate">rigid_feature_3</custom-field>
+		<custom-field action="translate">rigid_feature_4</custom-field>
+		<custom-field action="translate">rigid_feature_5</custom-field>
+		<custom-field action="translate">rigid_feature_6</custom-field>
+		<custom-field action="translate">rigid_feature_7</custom-field>
+		<custom-field action="translate">rigid_feature_8</custom-field>
+		<custom-field action="translate">rigid_feature_9</custom-field>
+		<custom-field action="translate">rigid_feature_10</custom-field>
+		<custom-field action="translate">rigid_add_description</custom-field>
+		<custom-field action="copy">rigid_featured_imgid_2</custom-field>
+		<custom-field action="copy">rigid_featured_imgid_3</custom-field>
+		<custom-field action="copy">rigid_featured_imgid_4</custom-field>
+		<custom-field action="copy">rigid_featured_imgid_5</custom-field>
+		<custom-field action="copy">rigid_prtfl_gallery</custom-field>
+		<custom-field action="translate">rigid_page_subtitle</custom-field>
+		<custom-field action="copy">rigid_title_background_imgid</custom-field>
+		<custom-field action="copy">rigid_title_alignment</custom-field>
+		<custom-field action="copy">rigid_footer_size</custom-field>
+		<custom-field action="copy">rigid_header_size</custom-field>
+		<custom-field action="copy">rigid_show_footer_sidebar</custom-field>
+		<custom-field action="copy">rigid_show_offcanvas_sidebar</custom-field>
+		<custom-field action="copy">rigid_custom_footer_sidebar</custom-field>
+		<custom-field action="copy">rigid_custom_offcanvas_sidebar</custom-field>
+		<custom-field action="copy">rigid_header_syle</custom-field>
+		<custom-field action="copy">rigid_top_menu</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="rigid">
+			<key name="top_bar_message" />
+			<key name="copyright_text" />
+			<key name="shop_subtitle" />
+			<key name="forum_subtitle" />
+			<key name="blog_title" />
+			<key name="blog_subtitle" />
+			<key name="map_location_title" />
+		</key>
+	</admin-texts>
+</wpml-config>
+
+
